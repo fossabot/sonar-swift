@@ -4,7 +4,8 @@
 
 | Branch   |      Status                                                                                                                                |
 |----------|:------------------------------------------------------------------------------------------------------------------------------------------:|
-| master | [![Build Status](https://travis-ci.org/Backelite/sonar-swift.svg?branch=master)](https://travis-ci.org/Backelite/sonar-swift)  |
+| master | [![Build Status](https://travis-ci.org/Backelite/sonar-swift.svg?branch=master)](https://travis-ci.org/Backelite/sonar-swift) [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmagaofei%2Fsonar-swift.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmagaofei%2Fsonar-swift?ref=badge_shield)
+ |
 | develop| [![Build Status](https://travis-ci.org/Backelite/sonar-swift.svg?branch=develop)](https://travis-ci.org/Backelite/sonar-swift) |
 
 SonarQube Plugin for Swift
@@ -106,3 +107,6 @@ Make sure to read these guides before getting started:
 ### License
 
 SonarQube Plugin for Swift is released under the GNU LGPL v3 license. See the [LICENSE](./LICENSE.md) file for more info.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmagaofei%2Fsonar-swift.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmagaofei%2Fsonar-swift?ref=badge_large)
